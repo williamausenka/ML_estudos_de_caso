@@ -1,0 +1,168 @@
+,Instituto_Orgao,Vagas,Salario_Maximo,Escolaridade,Cidade,Estado,Regiao
+0,Prefeitura de Boca do Acre (AM),326.0,3400.0,4,boca do acre,amazonas,NORTE
+1,Câmara de Tunápolis,1.0,1789.92,4,tunápolis,santa catarina,SUL
+2,Prefeitura de Ouroeste (SP),31.0,2992.36,4,ouroeste,são paulo,SUDESTE
+3,Prefeitura de Olinda (PE),230.0,3867.47,4,olinda,pernambuco,NORDESTE
+4,Prefeitura de Olinda (PE),230.0,3867.47,4,olinda,pernambuco,NORDESTE
+5,Prefeitura de Diorama (GO),29.0,4128.09,4,diorama,goiás,CENTRO-OESTE
+6,Prefeitura de São Miguel da Boa Vista (SC),6.0,4851.34,4,são miguel da boa vista,santa catarina,SUL
+7,"ICTIM - Instituto de Ciência, Tecnologia e Inovação de Maricá",19.0,5421.05,4,maricá,rio de janeiro,SUDESTE
+8,"Secretaria de Estado de Planejamento, Orçamento e Administração do Distrito Federal",230.0,9361.95,4,distrito federal,distrito federal,CENTRO-OESTE
+9,Prefeitura de Camargo (RS),25.0,10483.3,4,camargo,rio grande do sul,SUL
+10,Prefeitura de Orlândia (SP),163.0,10506.0,4,orlândia,são paulo,SUDESTE
+11,Prefeitura de Londrina (PR),41.0,12906.88,4,londrina,paraná,SUL
+12,Prefeitura de São Miguel das Missões (RS),7.0,13680.24,4,são miguel das missões,rio grande do sul,SUL
+13,Tribunal de Contas dos Municípios do Estado do Pará (PA),71.0,33689.11,4,várias cidades,pará,NORTE
+14,Prefeitura de Cordilheira Alta,5.0,34.42,4,cordilheira alta,santa catarina,SUL
+15,Prefeitura de Balneário Camboriú (SC),26.0,13622.83,4,balneário camboriú,santa catarina,SUL
+16,Prefeitura de Goioerê (PR),89.0,1192.0,6,goioerê,paraná,SUL
+17,Prefeitura de Novo Itacolomi,19.0,2510.78,4,novo itacolomi,paraná,SUL
+18,Governo do Estado do Pará,136.0,3104.35,4,pará,pará,NORTE
+19,Secretaria de Estado de Meio Ambiente e Sustentabilidade do Pará,136.0,3104.35,4,pará,pará,NORTE
+20,Prefeitura de Presidente Prudente,24.0,3755.79,4,presidente prudente,são paulo,SUDESTE
+21,Câmara Municipal de Guarapi (PR),1.0,4085.67,4,guaraci,paraná,SUL
+22,"IFG - Instituto Federal de Educação, Ciência e Tecnologia de Goiás",4.0,5831.21,4,jataí,goiás,CENTRO-OESTE
+23,Prefeitura de Guarulhos (SP),36.0,6286.79,4,guarulhos,são paulo,SUDESTE
+24,Prefeitura de Castelândia (GO),104.0,7000.0,4,castelândia,goiás,CENTRO-OESTE
+25,Prefeitura de Vicente Dutra (RS),48.0,7581.03,4,vicente dutra,rio grande do sul,SUL
+26,Instituto de Previdência Social do Município de Campinas (SP),7.0,9283.73,4,campinas,são paulo,SUDESTE
+27,Prefeitura de Bocaina (SP),23.0,10180.8,4,bocaina,são paulo,SUDESTE
+28,Prefeitura de Fonte Boa (AM),370.0,18500.0,4,fonte boa,amazonas,NORTE
+29,Câmara Municipal de Catolé do Rocha (PB),5.0,1212.0,2,catolé do rocha,paraíba,NORDESTE
+30,Fundação Hospitalar do Estado de Minas Gerais (Fhemig),7.0,6385.13,4,barbacena,minas gerais,SUDESTE
+31,Prefeitura de Rosário do Sul (RS),32.0,1320.0,4,rosário do sul,rio grande do sul,SUL
+32,Prefeitura de Sonora (MS),6.0,2257.11,2,sonora,mato grosso do sul,CENTRO-OESTE
+33,Prefeitura de Campinópolis (MT),209.0,3703.64,4,campinópolis,mato grosso,CENTRO-OESTE
+34,Consórcio Público Interfederativo de Saúde do Litoral Norte e Agreste Baiano,46.0,5500.0,4,bahia,bahia,NORDESTE
+35,Prefeitura de Cabedelo (PB),78.0,7401.43,4,cabedelo,paraíba,NORDESTE
+36,Universidade de Brasília (UnB),1.0,9616.18,5,brasília,distrito federal,CENTRO-OESTE
+37,Prefeitura de Campos Novos Paulista (PR),19.0,2164.68,4,campos novos paulista,paraná,SUL
+38,Prefeitura de Carazinho (RS),13.0,2424.0,2,carazinho,rio grande do sul,SUL
+39,Câmara Municipal de Miradouro (MG),5.0,2519.65,4,miradouro,minas gerais,SUDESTE
+40,Prefeitura de Getulina,8.0,3377.35,4,getulina,são paulo,SUDESTE
+41,UNESP - Universidade Estadual Paulista - Franca,3.0,3482.16,4,franca,são paulo,SUDESTE
+42,Prefeitura de Água Branca (PB),86.0,4000.0,4,água branca,paraíba,NORDESTE
+43,Prefeitura de São Sebastião do Caí (RS),12.0,4515.9,4,são sebastião do caí,rio grande do sul,SUL
+44,Prefeitura de Macedônia (SP),11.0,4995.9,4,macedônia,são paulo,SUDESTE
+45,Prefeitura de São José dos Pinhais (PR),53.0,8512.79,4,são josé dos pinhais,paraná,SUL
+46,Prefeitura de Imbuia (SC),10.0,16933.92,4,imbuia,santa catarina,SUL
+47,Instituto Estadual de Meio Ambiente e Recursos Hídricos (IEMA - ES),34.0,6582.6,4,cariacica,espírito santo,SUDESTE
+48,Prefeitura de Canapi (AL),312.0,1700.0,4,canapi,alagoas,NORDESTE
+49,Prefeitura de Alvorada do Norte (GO),4.0,2424.0,2,alvorada do norte,goiás,CENTRO-OESTE
+50,UNESP - Universidade Estadual Paulista - Rio Claro,7.0,1655.35,4,rio claro,são paulo,SUDESTE
+51,Prefeitura de Bauru,2.0,1887.9,3,bauru,são paulo,SUDESTE
+52,Prefeitura de Ribeirão (PE),25.0,2424.0,2,ribeirão,pernambuco,NORDESTE
+53,Prefeitura de Sanclerlândia (GO),16.0,2558.99,4,sanclerlândia,goiás,CENTRO-OESTE
+54,Prefeitura de Feliz (RS),6.0,2584.69,2,feliz,rio grande do sul,SUL
+55,Prefeitura de Chapecó (SC),75.0,2976.8,1,chapecó,santa catarina,SUL
+56,Prefeitura de Água Doce,2.0,4877.63,4,água doce,santa catarina,SUL
+57,"IFG - Instituto Federal de Educação, Ciência e Tecnologia de Goiás",4.0,5831.21,4,itumbiara,goiás,CENTRO-OESTE
+58,Instituto Estadual de Meio Ambiente e Recursos Hídricos do Espírito Santo,34.0,6582.6,4,espírito santo,espírito santo,SUDESTE
+59,Prefeitura de Brás Pires (MG),140.0,10543.11,4,brás pires,minas gerais,SUDESTE
+60,Receita Federal,699.0,21029.09,4,todo o país,todo o país,
+61,Banco do Brasil,6000.0,3622.23,2,todo o país,todo o país,
+62,Universidade Federal da Bahia (UFBA),24.0,9600.92,4,bahia,bahia,NORDESTE
+63,Prefeitura de Erval Seco (RS),18.0,1616.24,4,erval seco,rio grande do sul,SUL
+64,Prefeitura de Poço Fundo (MG),58.0,2555.28,4,poço fundo,minas gerais,SUDESTE
+65,Prefeitura de Sete Lagoas (MG),2.0,2717.63,4,sete lagoas,minas gerais,SUDESTE
+66,Defensoria Pública da Bahia,115.0,3068.25,4,salvador,bahia,NORDESTE
+67,Consórcio Intermunicipal de Saúde da Região do Vale do Peixoto (MT),110.0,3618.0,4,mato grosso,mato grosso,CENTRO-OESTE
+68,Prefeitura de Britânia (GO),135.0,4903.22,4,britânia,goiás,CENTRO-OESTE
+69,"IFG - Instituto Federal de Educação, Ciência e Tecnologia de Goiás",3.0,5831.21,4,inhumas,goiás,CENTRO-OESTE
+70,Prefeitura de Boa Esperança,1.0,6053.07,4,esperança,paraná,SUL
+71,Universidade Federal do Mato Grosso (UFMT),18.0,10074.18,4,mato grosso,mato grosso,CENTRO-OESTE
+72,Prefeitura de Ponta Porã (MS),714.0,4000.0,4,ponta porã,mato grosso do sul,CENTRO-OESTE
+73,Empresa de Desenvolvimento Agropecuário de Sergipe,55.0,5175.44,4,aracaju,sergipe,NORDESTE
+74,Tribunal de Justiça do Estado de São Paulo (SP),244.0,28883.97,4,várias cidades,são paulo,SUDESTE
+75,Prefeitura de Ponta Porã (MS),860.0,9980.0,4,ponta porã,mato grosso do sul,CENTRO-OESTE
+76,Polícia Militar do Estado do Rio Grande do Norte (PM - RN),1.158,1302.0,4,natal,rio grande do norte,NORDESTE
+77,Prefeitura de Pedralva (MG),105.0,5294.02,4,pedralva,minas gerais,SUDESTE
+78,Prefeitura de São João del-Rei (MG),81.0,10833.16,4,são joão del-rei,minas gerais,SUDESTE
+79,Fundação Universidade Virtual do Estado de São Paulo (UNIVESP),17.0,11701.95,5,são paulo,são paulo,SUDESTE
+80,Prefeitura de Bom Jardim,47.0,2424.0,2,bom jardim,pernambuco,NORDESTE
+81,Secretaria do Estado de Planejamento e de Administração (Seplad - PA),250.0,3696.38,5,belém,pará,NORTE
+82,Prefeitura de São José do Bonfim,7.0,2424.0,4,são josé do bonfim,paraíba,NORDESTE
+83,Empresa de Desenvolvimento de Itabira (MG),130.0,3070.48,4,itabira,minas gerais,SUDESTE
+84,Assembleia Legislativa do Estado de Santa Catarina (Alesc - SC),29.0,11660.45,4,florianópolis,santa catarina,SUL
+85,Assembleia Legislativa do Estado de Santa Catarina (SC),29.0,11660.45,4,florianópolis,santa catarina,SUL
+86,"Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR)",183.0,8361.33,4,paraná,paraná,SUL
+87,Universidade Federal de Minas Gerais (UFMG),56.0,4180.66,4,belo horizonte,minas gerais,SUDESTE
+88,Prefeitura de Baturité (CE),105.0,2556.93,4,baturité,ceará,NORDESTE
+89,Prefeitura de Gramado (RS),115.0,1078.71,4,gramado,rio grande do sul,SUL
+90,Prefeitura de Fortim (CE),29.0,2424.0,2,fortim,ceará,NORDESTE
+91,Câmara Municipal de Flórida (PR),2.0,1854.14,2,flórida,paraná,SUL
+92,Prefeitura de Jundiaí (SP),13.0,2330.02,2,jundiaí,são paulo,SUDESTE
+93,Universidade Federal de Minas Gerais (UFMG),31.0,4180.66,4,belo horizonte,minas gerais,SUDESTE
+94,Fundação Santa Casa de Misericórdia do Pará (FSCMP),250.0,3696.38,4,pará,pará,NORTE
+95,Prefeitura de Piraí do Sul (PR),106.0,15973.23,4,piraí do sul,paraná,SUL
+96,Tribunal Superior do Trabalho,300.0,32004.65,4,várias cidades,vários estados,
+97,Instituto de Gestão Previdenciária e Proteção Social do Estado do Pará (IGEPPS - PA),24.0,8443.89,4,belém,pará,NORTE
+98,Empresa Paraibana de Comunicação (EPC),160.0,3000.0,4,paraíba,paraíba,NORDESTE
+99,Prefeitura de Caruaru (PE),24.0,4000.0,4,caruaru,pernambuco,NORDESTE
+100,Instituto de Gestão Previdenciária e Proteção Social do Estado do Pará,24.0,8443.89,4,pará,pará,NORTE
+101,Prefeitura de Itapecerica da Serra (SP),48.0,6051.52,4,itapecerica da serra,são paulo,SUDESTE
+102,Prefeitura de Uirapuru (GO),124.0,2424.0,4,uirapuru,goiás,CENTRO-OESTE
+103,Câmara Municipal de Cunha (SP),1.0,3723.91,4,cunha,são paulo,SUDESTE
+104,Prefeitura de Óbidos (PA),409.0,6000.0,4,óbidos,pará,NORTE
+105,Corpo de Bombeiros Militar do Estado do Rio de Janeiro (CBM-RJ),800.0,5056.46,3,rio de janeiro,rio de janeiro,SUDESTE
+106,Consórcio Público Intermunicipal de Saúde da Rede de Emergência da Macrorregião do Triângulo do Norte - Cistri (MG),239.0,8000.0,4,várias cidades,minas gerais,SUDESTE
+107,Prefeitura de Garopaba (SC),451.0,16565.05,4,garopaba,santa catarina,SUL
+108,Prefeitura de Nova Mutum (MT),262.0,18508.85,4,nova mutum,mato grosso,CENTRO-OESTE
+109,Prefeitura Municipal de Foz do Jordão (PR),11.0,4508.18,4,foz do jordão,paraná,SUL
+110,Prefeitura de Perdões (MG),69.0,12337.04,4,perdões,minas gerais,SUDESTE
+111,Ministério Público de Santa Catarina (SC),5.0,28883.98,4,florianópolis,santa catarina,SUL
+112,Serviço Autônomo Municipal de Água e Esgoto de Tietê (SAMAE - SP),13.0,3224.77,4,são paulo,são paulo,SUDESTE
+113,Indústria de Material Bélico do Brasil - IMBEL (MG),10.0,2153.3,3,juiz de fora,minas gerais,SUDESTE
+114,Câmara de Correia Pinto,3.0,2684.14,4,correia pinto,santa catarina,SUL
+115,Câmara Municipal de Nova Granada (S),1.0,4849.39,4,nova granada,são paulo,SUDESTE
+116,Prefeitura de Cristalina (GO),29.0,8099.52,4,cristalina,goiás,CENTRO-OESTE
+117,Prefeitura de Carnaubeira da Penha (PE),102.0,10000.0,4,carnaubeura da penha,pernambuco,NORDESTE
+118,Procuradoria Geral do Município de Niterói (RJ),29.0,6838.92,4,niterói,rio de janeiro,SUDESTE
+119,Procuradoria Geral de Niterói,29.0,6838.92,4,niterói,rio de janeiro,SUDESTE
+120,Prefeitura de Oriximiná (PA),49.0,2585.99,4,oroximiná,pará,NORTE
+121,Prefeitura de Unistalda (RS),22.0,2972.77,4,unistalda,rio grande do sul,SUL
+122,Governo do Estado do Pará,136.0,3104.35,4,pará,pará,NORTE
+123,Companhia de Desenvolvimento de Guaratinguetá,30.0,6709.44,4,guaratinguetá,são paulo,SUDESTE
+124,Prefeitura de Sâo Vicente (SP),29.0,9772.8,4,são vicente,são paulo,SUDESTE
+125,Controladoria Geral do Município do Rio de Janeiro,41.0,10175.24,4,rio de janeiro,rio de janeiro,SUDESTE
+126,Prefeitura de Ilha Solteira,115.0,12923.94,4,ilha solteira,são paulo,SUDESTE
+127,Prefeitura de Ampére (PR),30.0,13601.23,4,ampére,paraná,SUL
+128,Prefeitura de Ilha Solteira,92.0,20912.35,4,ilha solteira,são paulo,SUDESTE
+129,Prefeitura de Três Barras (SC),117.0,3310.69,4,três barras,santa catarina,SUL
+130,Prefeitura de Brumadinho (MG),108.0,4800.93,4,brumadinho,minas gerais,SUDESTE
+131,Instituto de Previdência dos Servidores do Distrito Federal,85.0,6760.0,4,distrito federal,distrito federal,CENTRO-OESTE
+132,Companhia Integrada de Desenvolvimento de Agrícola de Santa Catarina,54.0,7324.58,4,santa catarina,santa catarina,SUL
+133,Companhia Integrada de Desenvolvimento de Agrícola de Santa Catarina - Cidasc,54.0,7324.58,4,santa catarina,santa catarina,SUL
+134,UFV - Universidade Federal de Viçosa,3.0,9616.18,4,viçosa,minas gerais,SUDESTE
+135,Universidade de São Paulo (USP),4.0,19885.85,4,são paulo,são paulo,SUDESTE
+136,Câmara Municipal de Brás Pires (MG),3.0,1800.0,4,brás pires,minas gerais,SUDESTE
+137,Prefeitura de Conceição do Rio Verde (MG),40.0,10000.0,4,conceição do rio verde,minas gerais,SUDESTE
+138,Advocacia Geral da União (AGU),300.0,21014.49,4,brasília,distrito federal,CENTRO-OESTE
+139,Procuradoria Geral do Estado do Espírito Santo - PGE/ES,8.0,22016.07,4,espírito santo,espírito santo,SUDESTE
+140,Universidade de São Paulo (USP),1.0,19885.85,4,são paulo,são paulo,SUDESTE
+141,Tribunal de Justiça do Estado de Mato Grosso do Sul (TJ - MS),15.0,27363.98,4,campo grande,mato grosso do sul,CENTRO-OESTE
+142,Tribunal de Justiça do Estado do Espírito Santo (TJ - ES),128.0,9596.81,4,vitória,espírito santo,SUDESTE
+143,Prefeitura de Lacerdópolis (SC),47.0,21718.74,4,lacerdópolis,santa catarina,SUL
+144,Instituto de Previdência de Leme (SP),7.0,6064.22,4,leme,são paulo,SUDESTE
+145,Ministério Público da Bahia,13.0,6154.13,4,bahia,bahia,NORDESTE
+146,Tribunal de Justiça do Estado do Espírito Santo (ES),128.0,9696.81,4,várias cidades,espírito santo,SUDESTE
+147,Prefeitura de Pacajus (CE),370.0,14000.0,4,pacajus,ceará,NORDESTE
+148,Prefeitura de Mogi Guaçu (SP),19.0,3528.62,4,mogi guaçu,são paulo,SUDESTE
+149,Prefeitura de Barra do Bugres (MT),132.0,6027.73,4,barra do bugres,mato grosso,CENTRO-OESTE
+150,Prefeitura de Capela (SE),300.0,10000.0,4,capela,sergipe,NORDESTE
+151,Universidade Federal de Mato Grosso do Sul (UFMS),11.0,10074.18,4,mato grosso do sul,mato grosso do sul,CENTRO-OESTE
+152,Secretaria do Estado de Planejamento e de Administração (Seplad - PA),121.0,3696.38,4,belém,pará,NORTE
+153,Hospital Ophir Loyola - HOL (PA),121.0,3696.38,4,belém,pará,NORTE
+154,Comusa - Serviços de Água e Esgoto de Novo Hamburgo (RS),44.0,6918.9,4,nobo hamburgo,rio grande do sul,SUL
+155,Prefeitura de Cachoeirinha (PE),18.0,4153.28,4,cachoeirinha,pernambuco,NORDESTE
+156,Procuradoria Geral do Município de Niterói (RJ),6.0,15334.15,4,niterói,rio de janeiro,SUDESTE
+157,Prefeitura de Farroupilha (RS),116.0,19011.63,4,farroupilha,rio grande do sul,SUL
+158,Faculdade de Odontologia da Universidade de São Paulo,1.0,19855.85,4,são paulo,são paulo,SUDESTE
+159,Marinha,1.08,2294.5,2,rio de janeiro e brasília,rio de janeiro e distrito federal,
+160,Prefeitura de Sete Lagoas (MG),593.0,1664.64,4,sete lagoas,minas gerais,SUDESTE
+161,Câmara Municipal de Cuité de Mamanguape (PB),9.0,1818.0,4,cuité de mamanguape,paraíba,NORDESTE
+162,Prefeitura de Bertioga (SP),100.0,2513.07,2,bertioga,são paulo,SUDESTE
+163,Prefeitura de Palmas (TO),50.0,3440.77,2,palmas,tocantins,NORTE
+164,Fundação Estadual de Proteção Ambiental Henrique Luis Roessler - Fepam (RS),56.0,6646.96,4,várias cidades,rio grande do sul,SUL
+165,Prefeitura de Capivari (SP),57.0,15519.11,4,capivari,são paulo,SUDESTE
+166,Instituto Federal do Sul de Minas,4.0,9616.18,4,"pouso alegre, passos e poços de caldas",minas gerais,SUDESTE

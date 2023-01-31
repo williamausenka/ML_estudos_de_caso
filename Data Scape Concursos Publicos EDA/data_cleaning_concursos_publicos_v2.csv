@@ -1,0 +1,168 @@
+,Instituto_Orgao,Vagas,Salario_Maximo,Escolaridade,Cidade,Estado
+0,Prefeitura de Boca do Acre (AM),326.0,3400.0,"fundamental, médio e superior",boca do acre,amazonas
+1,Câmara de Tunápolis,1.0,1789.92,superior,tunápolis,santa catarina
+2,Prefeitura de Ouroeste (SP),31.0,2992.36,"fundamental, médio e superior",ouroeste,são paulo
+3,Prefeitura de Olinda (PE),230.0,3867.47,superior,olinda,pernambuco
+4,Prefeitura de Olinda (PE),230.0,3867.47,superior,olinda,pernambuco
+5,Prefeitura de Diorama (GO),29.0,4128.09,"fundamental, médio e superior",diorama,goiás
+6,Prefeitura de São Miguel da Boa Vista (SC),6.0,4851.34,"fundamental, médio e superior",são miguel da boa vista,santa catarina
+7,"ICTIM - Instituto de Ciência, Tecnologia e Inovação de Maricá",19.0,5421.05,médio e superior,maricá,rio de janeiro
+8,"Secretaria de Estado de Planejamento, Orçamento e Administração do Distrito Federal",230.0,9361.95,superior,distrito federal,distrito federal
+9,Prefeitura de Camargo (RS),25.0,10483.3,"fundamental, médio e superior",camargo,rio grande do sul
+10,Prefeitura de Orlândia (SP),163.0,10506.0,"fundamental, médio, técnico e superior",orlândia,são paulo
+11,Prefeitura de Londrina (PR),41.0,12906.88,"fundamental, médio e superior",londrina,paraná
+12,Prefeitura de São Miguel das Missões (RS),7.0,13680.24,"fundamental, médio e superior",são miguel das missões,rio grande do sul
+13,Tribunal de Contas dos Municípios do Estado do Pará (PA),71.0,33689.11,médio e superior,várias cidades,pará
+14,Prefeitura de Cordilheira Alta,5.0,34.42,superior,cordilheira alta,santa catarina
+15,Prefeitura de Balneário Camboriú (SC),26.0,13622.83,"médio, técnico e superior",balneário camboriú,santa catarina
+16,Prefeitura de Goioerê (PR),89.0,1192.0,"médio, superior e magistério",goioerê,paraná
+17,Prefeitura de Novo Itacolomi,19.0,2510.78,"fundamental, médio, técnico e superior",novo itacolomi,paraná
+18,Governo do Estado do Pará,136.0,3104.35,médio e superior,pará,pará
+19,Secretaria de Estado de Meio Ambiente e Sustentabilidade do Pará,136.0,3104.35,médio e superior,pará,pará
+20,Prefeitura de Presidente Prudente,24.0,3755.79,"fundamental, médio e superior",presidente prudente,são paulo
+21,Câmara Municipal de Guarapi (PR),1.0,4085.67,superior,guaraci,paraná
+22,"IFG - Instituto Federal de Educação, Ciência e Tecnologia de Goiás",4.0,5831.21,superior,jataí,goiás
+23,Prefeitura de Guarulhos (SP),36.0,6286.79,"fundamental, médio e superior",guarulhos,são paulo
+24,Prefeitura de Castelândia (GO),104.0,7000.0,"fundamental, médio e superior",castelândia,goiás
+25,Prefeitura de Vicente Dutra (RS),48.0,7581.03,"fundamental, médio e superior",vicente dutra,rio grande do sul
+26,Instituto de Previdência Social do Município de Campinas (SP),7.0,9283.73,médio e superior,campinas,são paulo
+27,Prefeitura de Bocaina (SP),23.0,10180.8,"fundamental, médio e superior",bocaina,são paulo
+28,Prefeitura de Fonte Boa (AM),370.0,18500.0,"fundamental, médio e superior",fonte boa,amazonas
+29,Câmara Municipal de Catolé do Rocha (PB),5.0,1212.0,fundamental e médio,catolé do rocha,paraíba
+30,Fundação Hospitalar do Estado de Minas Gerais (Fhemig),7.0,6385.13,superior,barbacena,minas gerais
+31,Prefeitura de Rosário do Sul (RS),32.0,1320.0,médio e superior,rosário do sul,rio grande do sul
+32,Prefeitura de Sonora (MS),6.0,2257.11,fundamental e médio,sonora,mato grosso do sul
+33,Prefeitura de Campinópolis (MT),209.0,3703.64,"fundamental, médio e superior",campinópolis,mato grosso
+34,Consórcio Público Interfederativo de Saúde do Litoral Norte e Agreste Baiano,46.0,5500.0,médio e superior,bahia,bahia
+35,Prefeitura de Cabedelo (PB),78.0,7401.43,superior,cabedelo,paraíba
+36,Universidade de Brasília (UnB),1.0,9616.18,doutorado,brasília,distrito federal
+37,Prefeitura de Campos Novos Paulista (PR),19.0,2164.68,"fundamental, médio e superior",campos novos paulista,paraná
+38,Prefeitura de Carazinho (RS),13.0,2424.0,médio,carazinho,rio grande do sul
+39,Câmara Municipal de Miradouro (MG),5.0,2519.65,"fundamental, médio e superior",miradouro,minas gerais
+41,Prefeitura de Getulina,8.0,3377.35,fundamental e superior,getulina,são paulo
+42,UNESP - Universidade Estadual Paulista - Franca,3.0,3482.16,superior,franca,são paulo
+43,Prefeitura de Água Branca (PB),86.0,4000.0,"fundamental, médio e superior",água branca,paraíba
+44,Prefeitura de São Sebastião do Caí (RS),12.0,4515.9,superior,são sebastião do caí,rio grande do sul
+45,Prefeitura de Macedônia (SP),11.0,4995.9,"fundamental, médio e superior",macedônia,são paulo
+46,Prefeitura de São José dos Pinhais (PR),53.0,8512.79,médio e superior,são josé dos pinhais,paraná
+47,Prefeitura de Imbuia (SC),10.0,16933.92,"médio, técnico e superior",imbuia,santa catarina
+49,Instituto Estadual de Meio Ambiente e Recursos Hídricos (IEMA - ES),34.0,6582.6,técnico e superior,cariacica,espírito santo
+50,Prefeitura de Canapi (AL),312.0,1700.0,médio e superior,canapi,alagoas
+51,Prefeitura de Alvorada do Norte (GO),4.0,2424.0,médio,alvorada do norte,goiás
+52,UNESP - Universidade Estadual Paulista - Rio Claro,7.0,1655.35,superior,rio claro,são paulo
+53,Prefeitura de Bauru,2.0,1887.9,médio e técnico,bauru,são paulo
+54,Prefeitura de Ribeirão (PE),25.0,2424.0,médio,ribeirão,pernambuco
+55,Prefeitura de Sanclerlândia (GO),16.0,2558.99,"fundamental, médio e superior",sanclerlândia,goiás
+56,Prefeitura de Feliz (RS),6.0,2584.69,fundamental e médio,feliz,rio grande do sul
+57,Prefeitura de Chapecó (SC),75.0,2976.8,fundamental,chapecó,santa catarina
+58,Prefeitura de Água Doce,2.0,4877.63,superior,água doce,santa catarina
+59,"IFG - Instituto Federal de Educação, Ciência e Tecnologia de Goiás",4.0,5831.21,superior,itumbiara,goiás
+60,Instituto Estadual de Meio Ambiente e Recursos Hídricos do Espírito Santo,34.0,6582.6,médio e superior,espírito santo,espírito santo
+61,Prefeitura de Brás Pires (MG),140.0,10543.11,"fundamental, médio e superior",brás pires,minas gerais
+62,Receita Federal,699.0,21029.09,superior,todo o país,todo o país
+63,Banco do Brasil,6000.0,3622.23,médio,todo o país,todo o país
+64,Universidade Federal da Bahia (UFBA),24.0,9600.92,superior,bahia,bahia
+65,Prefeitura de Erval Seco (RS),18.0,1616.24,superior,erval seco,rio grande do sul
+66,Prefeitura de Poço Fundo (MG),58.0,2555.28,"fundamental, médio e superior",poço fundo,minas gerais
+67,Prefeitura de Sete Lagoas (MG),2.0,2717.63,médio e superior,sete lagoas,minas gerais
+68,Defensoria Pública da Bahia,115.0,3068.25,superior,salvador,bahia
+69,Consórcio Intermunicipal de Saúde da Região do Vale do Peixoto (MT),110.0,3618.0,"fundamental, médio e superior",mato grosso,mato grosso
+70,Prefeitura de Britânia (GO),135.0,4903.22,"fundamental, médio e superior",britânia,goiás
+71,"IFG - Instituto Federal de Educação, Ciência e Tecnologia de Goiás",3.0,5831.21,superior,inhumas,goiás
+72,Prefeitura de Boa Esperança,1.0,6053.07,"médio , superior",esperança,paraná
+73,Universidade Federal do Mato Grosso (UFMT),18.0,10074.18,superior,mato grosso,mato grosso
+75,Prefeitura de Ponta Porã (MS),714.0,4000.0,"fundamental, médio e superior",ponta porã,mato grosso do sul
+76,Empresa de Desenvolvimento Agropecuário de Sergipe,55.0,5175.44,médio e superior,aracaju,sergipe
+77,Tribunal de Justiça do Estado de São Paulo (SP),244.0,28883.97,superior,várias cidades,são paulo
+78,Prefeitura de Ponta Porã (MS),860.0,9980.0,"fundamental, médio e superior",ponta porã,mato grosso do sul
+79,Polícia Militar do Estado do Rio Grande do Norte (PM - RN),1.158,1302.0,superior,natal,rio grande do norte
+80,Prefeitura de Pedralva (MG),105.0,5294.02,"fundamental, médio e superior",pedralva,minas gerais
+81,Prefeitura de São João del-Rei (MG),81.0,10833.16,"fundamental, médio e superior",são joão del-rei,minas gerais
+82,Fundação Universidade Virtual do Estado de São Paulo (UNIVESP),17.0,11701.95,doutorado,são paulo,são paulo
+83,Prefeitura de Bom Jardim,47.0,2424.0,médio,bom jardim,pernambuco
+84,Secretaria do Estado de Planejamento e de Administração (Seplad - PA),250.0,3696.38,"médio, superior e doutorado",belém,pará
+85,Prefeitura de São José do Bonfim,7.0,2424.0,médio e superior,são josé do bonfim,paraíba
+86,Empresa de Desenvolvimento de Itabira (MG),130.0,3070.48,"fundamental, médio e superior",itabira,minas gerais
+87,Assembleia Legislativa do Estado de Santa Catarina (Alesc - SC),29.0,11660.45,superior,florianópolis,santa catarina
+88,Assembleia Legislativa do Estado de Santa Catarina (SC),29.0,11660.45,superior,florianópolis,santa catarina
+89,"Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR)",183.0,8361.33,superior,paraná,paraná
+90,Universidade Federal de Minas Gerais (UFMG),56.0,4180.66,médio e superior,belo horizonte,minas gerais
+91,Prefeitura de Baturité (CE),105.0,2556.93,médio e superior,baturité,ceará
+92,Prefeitura de Gramado (RS),115.0,1078.71,"médio, técnico e superior",gramado,rio grande do sul
+93,Prefeitura de Fortim (CE),29.0,2424.0,médio,fortim,ceará
+94,Câmara Municipal de Flórida (PR),2.0,1854.14,fundamental e médio,flórida,paraná
+95,Prefeitura de Jundiaí (SP),13.0,2330.02,médio,jundiaí,são paulo
+96,Universidade Federal de Minas Gerais (UFMG),31.0,4180.66,médio e superior,belo horizonte,minas gerais
+97,Fundação Santa Casa de Misericórdia do Pará (FSCMP),250.0,3696.38,médio e superior,pará,pará
+98,Prefeitura de Piraí do Sul (PR),106.0,15973.23,"fundamental, médio e superior",piraí do sul,paraná
+99,Tribunal Superior do Trabalho,300.0,32004.65,superior,várias cidades,vários estados
+100,Instituto de Gestão Previdenciária e Proteção Social do Estado do Pará (IGEPPS - PA),24.0,8443.89,médio e superior,belém,pará
+101,Empresa Paraibana de Comunicação (EPC),160.0,3000.0,médio e superior,paraíba,paraíba
+102,Prefeitura de Caruaru (PE),24.0,4000.0,médio e superior,caruaru,pernambuco
+103,Instituto de Gestão Previdenciária e Proteção Social do Estado do Pará,24.0,8443.89,médio e superior,pará,pará
+104,Prefeitura de Itapecerica da Serra (SP),48.0,6051.52,"médio, técnico e superior",itapecerica da serra,são paulo
+105,Prefeitura de Uirapuru (GO),124.0,2424.0,"fundamental, médio e superior",uirapuru,goiás
+106,Câmara Municipal de Cunha (SP),1.0,3723.91,superior,cunha,são paulo
+107,Prefeitura de Óbidos (PA),409.0,6000.0,"fundamental, médio, técnico e superior",óbidos,pará
+108,Corpo de Bombeiros Militar do Estado do Rio de Janeiro (CBM-RJ),800.0,5056.46,médio e técnico,rio de janeiro,rio de janeiro
+109,Consórcio Público Intermunicipal de Saúde da Rede de Emergência da Macrorregião do Triângulo do Norte - Cistri (MG),239.0,8000.0,"fundamental, médio e superior",várias cidades,minas gerais
+110,Prefeitura de Garopaba (SC),451.0,16565.05,"fundamental, médio e superior",garopaba,santa catarina
+111,Prefeitura de Nova Mutum (MT),262.0,18508.85,"fundamental, médio, técnico e superior",nova mutum,mato grosso
+112,Prefeitura Municipal de Foz do Jordão (PR),11.0,4508.18,superior,foz do jordão,paraná
+113,Prefeitura de Perdões (MG),69.0,12337.04,"fundamental, médio e superior",perdões,minas gerais
+114,Ministério Público de Santa Catarina (SC),5.0,28883.98,superior,florianópolis,santa catarina
+115,Serviço Autônomo Municipal de Água e Esgoto de Tietê (SAMAE - SP),13.0,3224.77,"fundamental, médio e superior",são paulo,são paulo
+116,Indústria de Material Bélico do Brasil - IMBEL (MG),10.0,2153.3,médio e técnico,juiz de fora,minas gerais
+117,Câmara de Correia Pinto,3.0,2684.14,"fundamental , superior",correia pinto,santa catarina
+118,Câmara Municipal de Nova Granada (S),1.0,4849.39,superior,nova granada,são paulo
+119,Prefeitura de Cristalina (GO),29.0,8099.52,médio e superior,cristalina,goiás
+120,Prefeitura de Carnaubeira da Penha (PE),102.0,10000.0,"fundamental, médio e superior",carnaubeura da penha,pernambuco
+121,Procuradoria Geral do Município de Niterói (RJ),29.0,6838.92,médio e superior,niterói,rio de janeiro
+122,Procuradoria Geral de Niterói,29.0,6838.92,"médio , superior",niterói,rio de janeiro
+123,Prefeitura de Oriximiná (PA),49.0,2585.99,"fundamental, médio e superior",oroximiná,pará
+124,Prefeitura de Unistalda (RS),22.0,2972.77,"fundamental, médio e superior",unistalda,rio grande do sul
+125,Governo do Estado do Pará,136.0,3104.35,médio e superior,pará,pará
+126,Companhia de Desenvolvimento de Guaratinguetá,30.0,6709.44,"fundamental, médio e superior",guaratinguetá,são paulo
+127,Prefeitura de Sâo Vicente (SP),29.0,9772.8,médio e superior,são vicente,são paulo
+128,Controladoria Geral do Município do Rio de Janeiro,41.0,10175.24,superior,rio de janeiro,rio de janeiro
+129,Prefeitura de Ilha Solteira,115.0,12923.94,médio e superior,ilha solteira,são paulo
+130,Prefeitura de Ampére (PR),30.0,13601.23,"fundamental, médio e superior",ampére,paraná
+131,Prefeitura de Ilha Solteira,92.0,20912.35,"fundamental, médio e superior",ilha solteira,são paulo
+132,Prefeitura de Três Barras (SC),117.0,3310.69,médio e superior,três barras,santa catarina
+133,Prefeitura de Brumadinho (MG),108.0,4800.93,"fundamental, médio e superior",brumadinho,minas gerais
+134,Instituto de Previdência dos Servidores do Distrito Federal,85.0,6760.0,superior,distrito federal,distrito federal
+135,Companhia Integrada de Desenvolvimento de Agrícola de Santa Catarina,54.0,7324.58,técnico e superior,santa catarina,santa catarina
+136,Companhia Integrada de Desenvolvimento de Agrícola de Santa Catarina - Cidasc,54.0,7324.58,"médio, técnico e superior",santa catarina,santa catarina
+137,UFV - Universidade Federal de Viçosa,3.0,9616.18,superior,viçosa,minas gerais
+138,Universidade de São Paulo (USP),4.0,19885.85,superior,são paulo,são paulo
+139,Câmara Municipal de Brás Pires (MG),3.0,1800.0,superior,brás pires,minas gerais
+140,Prefeitura de Conceição do Rio Verde (MG),40.0,10000.0,"fundamental, médio e superior",conceição do rio verde,minas gerais
+141,Advocacia Geral da União (AGU),300.0,21014.49,superior,brasília,distrito federal
+142,Procuradoria Geral do Estado do Espírito Santo - PGE/ES,8.0,22016.07,superior,espírito santo,espírito santo
+143,Universidade de São Paulo (USP),1.0,19885.85,superior,são paulo,são paulo
+144,Tribunal de Justiça do Estado de Mato Grosso do Sul (TJ - MS),15.0,27363.98,superior,campo grande,mato grosso do sul
+146,Tribunal de Justiça do Estado do Espírito Santo (TJ - ES),128.0,9596.81,superior,vitória,espírito santo
+147,Prefeitura de Lacerdópolis (SC),47.0,21718.74,"alfabetizado, fundamental, médio e superior",lacerdópolis,santa catarina
+148,Instituto de Previdência de Leme (SP),7.0,6064.22,"fundamental, médio e superior",leme,são paulo
+149,Ministério Público da Bahia,13.0,6154.13,médio e superior,bahia,bahia
+150,Tribunal de Justiça do Estado do Espírito Santo (ES),128.0,9696.81,superior,várias cidades,espírito santo
+151,Prefeitura de Pacajus (CE),370.0,14000.0,"fundamental, médio, técnico e superior",pacajus,ceará
+152,Prefeitura de Mogi Guaçu (SP),19.0,3528.62,"fundamental, médio e superior",mogi guaçu,são paulo
+153,Prefeitura de Barra do Bugres (MT),132.0,6027.73,"fundamental, médio e superior",barra do bugres,mato grosso
+154,Prefeitura de Capela (SE),300.0,10000.0,"fundamental, médio e superior",capela,sergipe
+155,Universidade Federal de Mato Grosso do Sul (UFMS),11.0,10074.18,superior,mato grosso do sul,mato grosso do sul
+156,Secretaria do Estado de Planejamento e de Administração (Seplad - PA),121.0,3696.38,médio e superior,belém,pará
+157,Hospital Ophir Loyola - HOL (PA),121.0,3696.38,médio e superior,belém,pará
+158,Comusa - Serviços de Água e Esgoto de Novo Hamburgo (RS),44.0,6918.9,"fundamental, médio, técnico e superior",nobo hamburgo,rio grande do sul
+159,Prefeitura de Cachoeirinha (PE),18.0,4153.28,médio e superior,cachoeirinha,pernambuco
+160,Procuradoria Geral do Município de Niterói (RJ),6.0,15334.15,superior,niterói,rio de janeiro
+161,Prefeitura de Farroupilha (RS),116.0,19011.63,"fundamental, médio e superior",farroupilha,rio grande do sul
+162,Faculdade de Odontologia da Universidade de São Paulo,1.0,19855.85,superior,são paulo,são paulo
+163,Marinha,1.08,2294.5,médio,rio de janeiro e brasília,rio de janeiro e distrito federal
+164,Prefeitura de Sete Lagoas (MG),593.0,1664.64,"fundamental, médio e superior",sete lagoas,minas gerais
+165,Câmara Municipal de Cuité de Mamanguape (PB),9.0,1818.0,"fundamental, médio e superior",cuité de mamanguape,paraíba
+166,Prefeitura de Bertioga (SP),100.0,2513.07,médio,bertioga,são paulo
+167,Prefeitura de Palmas (TO),50.0,3440.77,médio,palmas,tocantins
+168,Fundação Estadual de Proteção Ambiental Henrique Luis Roessler - Fepam (RS),56.0,6646.96,"médio, técnico e superior",várias cidades,rio grande do sul
+169,Prefeitura de Capivari (SP),57.0,15519.11,"fundamental, médio e superior",capivari,são paulo
+170,Instituto Federal do Sul de Minas,4.0,9616.18,superior,"pouso alegre, passos e poços de caldas",minas gerais

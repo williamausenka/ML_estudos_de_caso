@@ -1,0 +1,172 @@
+,Instituto_Orgao,Vagas,Salario_Maximo,Escolaridade,Cidade,Estado
+0,Prefeitura de Boca do Acre (AM),326,"R$ 3.400,00","fundamental, médio e superior",Boca do Acre,Amazonas
+1,Câmara de Tunápolis,1,"R$ 1.789,92",superior,Tunápolis,Santa Catarina
+2,Prefeitura de Ouroeste (SP),31,"R$ 2.992,36","fundamental, médio e superior",Ouroeste,São Paulo
+3,Prefeitura de Olinda (PE),230,"R$ 3.867,47",superior,Olinda,Pernambuco
+4,Prefeitura de Olinda (PE),230,"R$ 3.867,47",superior,Olinda,Pernambuco
+5,Prefeitura de Diorama (GO),29,"R$ 4.128,09","fundamental, médio e superior",Diorama,Goiás
+6,Prefeitura de São Miguel da Boa Vista (SC),6,"R$ 4.851,34","fundamental, médio e superior",São Miguel da Boa Vista,Santa Catarina
+7,"ICTIM - Instituto de Ciência, Tecnologia e Inovação de Maricá",19,"R$ 5.421,05",médio e superior,Maricá,Rio de Janeiro
+8,"Secretaria de Estado de Planejamento, Orçamento e Administração do Distrito Federal",230,"R$ 9.361,95",superior,Distrito Federal,Distrito Federal
+9,Prefeitura de Camargo (RS),25,"R$ 10.483,30","fundamental, médio e superior",Camargo,Rio Grande do Sul
+10,Prefeitura de Orlândia (SP),163,"R$ 10.506,00","fundamental, médio, técnico e superior",Orlândia,São Paulo
+11,Prefeitura de Londrina (PR),41,"R$ 12.906,88","fundamental, médio e superior",Londrina,Paraná
+12,Prefeitura de São Miguel das Missões (RS),7,"R$ 13.680,24","fundamental, médio e superior",São Miguel das Missões,Rio Grande do Sul
+13,Tribunal de Contas dos Municípios do Estado do Pará (PA),71,"R$ 33.689,11",médio e superior,várias cidades,Pará
+14,Prefeitura de Cordilheira Alta,5,"34,42 por hora",Superior,Cordilheira Alta,Santa Catarina
+15,Prefeitura de Balneário Camboriú (SC),26,"R$ 13.622,83","médio, técnico e superior",Balneário Camboriú,Santa Catarina
+16,Prefeitura de Goioerê (PR),89,"R$ 1.192,00","médio, superior e magistério",Goioerê,Paraná
+17,Prefeitura de Novo Itacolomi,19,"R$ 2.510,78","fundamental, médio, técnico e superior",Novo Itacolomi,Paraná
+18,Governo do Estado do Pará,136,"R$ 3.104,35",médio e superior,Pará,Pará
+19,Secretaria de Estado de Meio Ambiente e Sustentabilidade do Pará,136,"R$ 3.104,35",médio e superior,Pará,Pará
+20,Prefeitura de Presidente Prudente,24,"R$ 3.755,79","fundamental, médio e superior",Presidente Prudente,São Paulo
+21,Câmara Municipal de Guarapi (PR),1,"R$ 4.085,67",superior,Guaraci,Paraná
+22,"IFG - Instituto Federal de Educação, Ciência e Tecnologia de Goiás",4,"R$ 5.831,21",superior,Jataí,Goiás
+23,Prefeitura de Guarulhos (SP),36,"R$ 6.286,79","fundamental, médio e superior",Guarulhos,São Paulo
+24,Prefeitura de Castelândia (GO),104,"R$ 7.000,00","fundamental, médio e superior",Castelândia,Goiás
+25,Prefeitura de Vicente Dutra (RS),48,"R$ 7.581,03","fundamental, médio e superior",Vicente Dutra,Rio Grande do Sul
+26,Instituto de Previdência Social do Município de Campinas (SP),7,"R$ 9.283,73",médio e superior,Campinas,São Paulo
+27,Prefeitura de Bocaina (SP),23,"R$ 10.180,80","fundamental, médio e superior",Bocaina,São Paulo
+28,Prefeitura de Fonte Boa (AM),370,"R$ 18.500,00","fundamental, médio e superior",Fonte Boa,Amazonas
+29,Câmara Municipal de Catolé do Rocha (PB),5,"R$ 1.212,00",fundamental e médio,Catolé do Rocha,Paraíba
+30,Fundação Hospitalar do Estado de Minas Gerais (Fhemig),7,"R$ 6.385,13",superior,Barbacena,Minas Gerais
+31,Prefeitura de Rosário do Sul (RS),32,"R$ 1.320,00",médio e superior,Rosário do Sul,Rio Grande do Sul
+32,Prefeitura de Sonora (MS),6,"R$ 2.257,11",fundamental e médio,Sonora,Mato Grosso do Sul
+33,Prefeitura de Campinópolis (MT),209,"R$ 3.703,64","fundamental, médio e superior",Campinópolis,Mato Grosso
+34,Consórcio Público Interfederativo de Saúde do Litoral Norte e Agreste Baiano,46,"R$ 5.500,00",médio e superior,Bahia,Bahia
+35,Prefeitura de Cabedelo (PB),78,"R$ 7.401,43",superior,Cabedelo,Paraíba
+36,Universidade de Brasília (UnB),1,"R$ 9.616,18",doutorado,Brasília,Distrito Federal
+37,Prefeitura de Campos Novos Paulista (PR),19,"R$ 2.164,68","fundamental, médio e superior",Campos Novos Paulista,Paraná
+38,Prefeitura de Carazinho (RS),13,"R$ 2.424,00",médio,Carazinho,Rio Grande do Sul
+39,Câmara Municipal de Miradouro (MG),5,"R$ 2.519,65","fundamental, médio e superior",Miradouro,Minas Gerais
+40,"IFBA - Instituto Federal de Educação, Ciência e Tecnologia",2,"R$ 3.130,85",superior,,Bahia
+41,Prefeitura de Getulina,8,"R$ 3.377,35",fundamental e superior,Getulina,São Paulo
+42,UNESP - Universidade Estadual Paulista - Franca,3,"R$ 3.482,16",superior,Franca,São Paulo
+43,Prefeitura de Água Branca (PB),86,"R$ 4.000,00","fundamental, médio e superior",Água Branca,Paraíba
+44,Prefeitura de São Sebastião do Caí (RS),12,"R$ 4.515,90",superior,São Sebastião do Caí,Rio Grande do Sul
+45,Prefeitura de Macedônia (SP),11,"R$ 4.995,90","fundamental, médio e superior",Macedônia,São Paulo
+46,Prefeitura de São José dos Pinhais (PR),53,"R$ 8.512,79",médio e superior,São José dos Pinhais,Paraná
+47,Prefeitura de Imbuia (SC),10,"R$ 16.933,92","médio, técnico e superior",Imbuia,Santa Catarina
+48,Marinha,30,,"fundamental, médio e superior",Rio de Janeiro,Rio de Janeiro
+49,Instituto Estadual de Meio Ambiente e Recursos Hídricos (IEMA - ES),34,"R$ 6.582,60",técnico e superior,Cariacica,Espírito Santo
+50,Prefeitura de Canapi (AL),312,"R$ 1.700,00",médio e superior,Canapi,Alagoas
+51,Prefeitura de Alvorada do Norte (GO),4,"R$ 2.424,00",médio,Alvorada do Norte,Goiás
+52,UNESP - Universidade Estadual Paulista - Rio Claro,7,"R$ 1.655,35",superior,Rio Claro,São Paulo
+53,Prefeitura de Bauru,2,"R$ 1.887,90",médio e técnico,Bauru,São Paulo
+54,Prefeitura de Ribeirão (PE),25,"R$ 2.424,00",médio,Ribeirão,Pernambuco
+55,Prefeitura de Sanclerlândia (GO),16,"R$ 2.558,99","fundamental, médio e superior",Sanclerlândia,Goiás
+56,Prefeitura de Feliz (RS),6,"R$ 2.584,69",fundamental e médio,Feliz,Rio Grande do Sul
+57,Prefeitura de Chapecó (SC),75,"R$ 2.976,80",fundamental,Chapecó,Santa Catarina
+58,Prefeitura de Água Doce,2,"R$ 4.877,63",Superior,Água Doce,Santa Catarina
+59,"IFG - Instituto Federal de Educação, Ciência e Tecnologia de Goiás",4,"R$ 5.831,21",superior,Itumbiara,Goiás
+60,Instituto Estadual de Meio Ambiente e Recursos Hídricos do Espírito Santo,34,"R$ 6.582,60",médio e superior,Espírito Santo,Espírito Santo
+61,Prefeitura de Brás Pires (MG),140,"R$ 10.543,11","fundamental, médio e superior",Brás Pires,Minas Gerais
+62,Receita Federal,699,"R$ 21.029,09",superior,todo o país,todo o país
+63,Banco do Brasil,6000,"R$ 3.622,23",médio,todo o país,todo o país
+64,Universidade Federal da Bahia (UFBA),24,"R$ 9.600,92",superior,Bahia,Bahia
+65,Prefeitura de Erval Seco (RS),18,"R$ 1.616,24",superior,Erval Seco,Rio Grande do Sul
+66,Prefeitura de Poço Fundo (MG),58,"R$ 2.555,28","fundamental, médio e superior",Poço Fundo,Minas Gerais
+67,Prefeitura de Sete Lagoas (MG),2,"R$ 2.717,63",médio e superior,Sete Lagoas,Minas Gerais
+68,Defensoria Pública da Bahia,115,"R$ 3.068,25",superior,Salvador,Bahia
+69,Consórcio Intermunicipal de Saúde da Região do Vale do Peixoto (MT),110,"R$ 3.618,00","fundamental, médio e superior",Mato Grosso,Mato Grosso
+70,Prefeitura de Britânia (GO),135,"R$ 4.903,22","fundamental, médio e superior",Britânia,Goiás
+71,"IFG - Instituto Federal de Educação, Ciência e Tecnologia de Goiás",3,"R$ 5.831,21",superior,Inhumas,Goiás
+72,Prefeitura de Boa Esperança,1,"R$ 6.053,07","Médio , Superior",Esperança,Paraná
+73,Universidade Federal do Mato Grosso (UFMT),18,"R$ 10.074,18",superior,Mato Grosso,Mato Grosso
+74,Prefeitura de São João do Sul (SC),,"R$ 16.620,00","fundamental, médio e superior",São João do Sul,Santa Catarina
+75,Prefeitura de Ponta Porã (MS),714,"R$ 4.000,00","fundamental, médio e superior",Ponta Porã,Mato Grosso do Sul
+76,Empresa de Desenvolvimento Agropecuário de Sergipe,55,"R$ 5.175,44",médio e superior,Aracaju,Sergipe
+77,Tribunal de Justiça do Estado de São Paulo (SP),244,"R$ 28.883,97",superior,várias cidades,São Paulo
+78,Prefeitura de Ponta Porã (MS),860,"R$ 9.980,00","fundamental, médio e superior",Ponta Porã,Mato Grosso do Sul
+79,Polícia Militar do Estado do Rio Grande do Norte (PM - RN),1.158,"R$ 1.302,00",superior,Natal,Rio Grande do Norte
+80,Prefeitura de Pedralva (MG),105,"R$ 5.294,02","fundamental, médio e superior",Pedralva,Minas Gerais
+81,Prefeitura de São João del-Rei (MG),81,"R$ 10.833,16","fundamental, médio e superior",São João del-Rei,Minas Gerais
+82,Fundação Universidade Virtual do Estado de São Paulo (UNIVESP),17,"R$ 11.701,95",doutorado,São Paulo,São Paulo
+83,Prefeitura de Bom Jardim,47,"R$ 2.424,00",médio,Bom Jardim,Pernambuco
+84,Secretaria do Estado de Planejamento e de Administração (Seplad - PA),250,"R$ 3.696,38","médio, superior e doutorado",Belém,Pará
+85,Prefeitura de São José do Bonfim,7,"R$ 2.424,00",médio e superior,São José do Bonfim,Paraíba
+86,Empresa de Desenvolvimento de Itabira (MG),130,"R$ 3.070,48","fundamental, médio e superior",Itabira,Minas Gerais
+87,Assembleia Legislativa do Estado de Santa Catarina (Alesc - SC),29,"R$ 11.660,45",superior,Florianópolis,Santa Catarina
+88,Assembleia Legislativa do Estado de Santa Catarina (SC),29,"R$ 11.660,45",superior,Florianópolis,Santa Catarina
+89,"Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR)",183,"R$ 8.361,33",superior,Paraná,Paraná
+90,Universidade Federal de Minas Gerais (UFMG),56,"R$ 4.180,66",médio e superior,Belo Horizonte,Minas Gerais
+91,Prefeitura de Baturité (CE),105,"R$ 2.556,93",médio e superior,Baturité,Ceará
+92,Prefeitura de Gramado (RS),115,"R$ 1.078,71","médio, técnico e superior",Gramado,Rio Grande do Sul
+93,Prefeitura de Fortim (CE),29,"R$ 2.424,00",médio,Fortim,Ceará
+94,Câmara Municipal de Flórida (PR),2,"R$ 1.854,14",fundamental e médio,Flórida,Paraná
+95,Prefeitura de Jundiaí (SP),13,"R$ 2.330,02",médio,Jundiaí,São Paulo
+96,Universidade Federal de Minas Gerais (UFMG),31,"R$ 4.180,66",médio e superior,Belo Horizonte,Minas Gerais
+97,Fundação Santa Casa de Misericórdia do Pará (FSCMP),250,"R$ 3.696,38",médio e superior,Pará,Pará
+98,Prefeitura de Piraí do Sul (PR),106,"R$ 15.973,23","fundamental, médio e superior",Piraí do Sul,Paraná
+99,Tribunal Superior do Trabalho,300,"R$ 32.004,65",superior,Várias cidades,Vários Estados
+100,Instituto de Gestão Previdenciária e Proteção Social do Estado do Pará (IGEPPS - PA),24,"R$ 8.443,89",médio e superior,Belém,Pará
+101,Empresa Paraibana de Comunicação (EPC),160,"R$ 3.000,00",médio e superior,Paraíba,Paraíba
+102,Prefeitura de Caruaru (PE),24,"R$ 4.000,00",médio e superior,Caruaru,Pernambuco
+103,Instituto de Gestão Previdenciária e Proteção Social do Estado do Pará,24,"R$ 8.443,89",médio e superior,Pará,Pará
+104,Prefeitura de Itapecerica da Serra (SP),48,"R$ 6.051,52","médio, técnico e superior",Itapecerica da Serra,São Paulo
+105,Prefeitura de Uirapuru (GO),124,"R$ 2.424,00","fundamental, médio e superior",Uirapuru,Goiás
+106,Câmara Municipal de Cunha (SP),1,"R$ 3.723,91",superior,Cunha,São Paulo
+107,Prefeitura de Óbidos (PA),409,"R$ 6.000,00","fundamental, médio, técnico e superior",Óbidos,Pará
+108,Corpo de Bombeiros Militar do Estado do Rio de Janeiro (CBM-RJ),800,"R4 5.056,46",médio e técnico,Rio de Janeiro,Rio de Janeiro
+109,Consórcio Público Intermunicipal de Saúde da Rede de Emergência da Macrorregião do Triângulo do Norte - Cistri (MG),239,"R$ 8.000,00","fundamental, médio e superior",várias cidades,Minas Gerais
+110,Prefeitura de Garopaba (SC),451,"R$ 16.565,05","fundamental, médio e superior",Garopaba,Santa Catarina
+111,Prefeitura de Nova Mutum (MT),262,"R$ 18.508,85","fundamental, médio, técnico e superior",Nova Mutum,Mato Grosso
+112,Prefeitura Municipal de Foz do Jordão (PR),11,"R$ 4.508,18",superior,Foz do Jordão,Paraná
+113,Prefeitura de Perdões (MG),69,"R$ 12.337,04","fundamental, médio e superior",Perdões,Minas Gerais
+114,Ministério Público de Santa Catarina (SC),5,"R$ 28.883,98",superior,Florianópolis,Santa Catarina
+115,Serviço Autônomo Municipal de Água e Esgoto de Tietê (SAMAE - SP),13,"R$ 3.224,77","fundamental, médio e superior",São Paulo,São Paulo
+116,Indústria de Material Bélico do Brasil - IMBEL (MG),10,"R$ 2.153,30",médio e técnico,Juiz de Fora,Minas Gerais
+117,Câmara de Correia Pinto,3,"R$ 2.684,14","Fundamental , Superior",Correia Pinto,Santa Catarina
+118,Câmara Municipal de Nova Granada (S),1,"R$ 4.849,39",superior,Nova Granada,São Paulo
+119,Prefeitura de Cristalina (GO),29,"R$ 8.099,52",médio e superior,Cristalina,Goiás
+120,Prefeitura de Carnaubeira da Penha (PE),102,"R$ 10.000,00","fundamental, médio e superior",Carnaubeura da Penha,Pernambuco
+121,Procuradoria Geral do Município de Niterói (RJ),29,"R$ 6.838,92",médio e superior,Niterói,Rio de Janeiro
+122,Procuradoria Geral de Niterói,29,"R$ 6.838,92","Médio , Superior",Niterói,Rio de Janeiro
+123,Prefeitura de Oriximiná (PA),49,"R$ 2.585,99","fundamental, médio e superior",Oroximiná,Pará
+124,Prefeitura de Unistalda (RS),22,"R$ 2.972,77","fundamental, médio e superior",Unistalda,Rio Grande do Sul
+125,Governo do Estado do Pará,136,"R$ 3.104,35",médio e superior,Pará,Pará
+126,Companhia de Desenvolvimento de Guaratinguetá,30,"R$ 6.709,44","fundamental, médio e superior",Guaratinguetá,São Paulo
+127,Prefeitura de Sâo Vicente (SP),29,"R$ 9.772,80",médio e superior,São Vicente,São Paulo
+128,Controladoria Geral do Município do Rio de Janeiro,41,"R$ 10.175,24",superior,Rio de Janeiro,Rio de Janeiro
+129,Prefeitura de Ilha Solteira,115,"R$ 12.923,94",médio e superior,Ilha Solteira,São Paulo
+130,Prefeitura de Ampére (PR),30,"R$ 13.601,23","fundamental, médio e superior",Ampére,Paraná
+131,Prefeitura de Ilha Solteira,92,"R$ 20.912,35","fundamental, médio e superior",Ilha Solteira,São Paulo
+132,Prefeitura de Três Barras (SC),117,"R$ 3.310,69",médio e superior,Três Barras,Santa Catarina
+133,Prefeitura de Brumadinho (MG),108,"R$ 4.800,93","fundamental, médio e superior",Brumadinho,Minas Gerais
+134,Instituto de Previdência dos Servidores do Distrito Federal,85,"R$ 6.760,00",superior,Distrito Federal,Distrito Federal
+135,Companhia Integrada de Desenvolvimento de Agrícola de Santa Catarina,54,"R$ 7.324,58",técnico e superior,Santa Catarina,Santa Catarina
+136,Companhia Integrada de Desenvolvimento de Agrícola de Santa Catarina - Cidasc,54,"R$ 7.324,58","médio, técnico e superior",Santa Catarina,Santa Catarina
+137,UFV - Universidade Federal de Viçosa,3,"R$ 9.616,18",superior,Viçosa,Minas Gerais
+138,Universidade de São Paulo (USP),4,"R$ 19.885,85",superior,São Paulo,São Paulo
+139,Câmara Municipal de Brás Pires (MG),3,"R$ 1.800,00",superior,Brás Pires,Minas Gerais
+140,Prefeitura de Conceição do Rio Verde (MG),40,"R$ 10.000,00","fundamental, médio e superior",Conceição do Rio Verde,Minas Gerais
+141,Advocacia Geral da União (AGU),300,"R$ 21.014,49",superior,Brasília,Distrito Federal
+142,Procuradoria Geral do Estado do Espírito Santo - PGE/ES,8,"R$ 22.016,07",superior,Espírito Santo,Espírito Santo
+143,Universidade de São Paulo (USP),1,"R$ 19.885,85",superior,São Paulo,São Paulo
+144,Tribunal de Justiça do Estado de Mato Grosso do Sul (TJ - MS),15,"R$ 27.363,98",superior,Campo Grande,Mato Grosso do Sul
+145,Tribunal de Justiça do Estado de Mato Grosso do Sul (MS),,"R$ 27.363,98",superior,várias cidades,Mato Grosso do Sul
+146,Tribunal de Justiça do Estado do Espírito Santo (TJ - ES),128,"R$ 9.596,81",superior,Vitória,Espírito Santo
+147,Prefeitura de Lacerdópolis (SC),47,"R$ 21.718,74","alfabetizado, fundamental, médio e superior",Lacerdópolis,Santa Catarina
+148,Instituto de Previdência de Leme (SP),7,"R$ 6.064,22","fundamental, médio e superior",Leme,São Paulo
+149,Ministério Público da Bahia,13,"R$ 6.154,13",médio e superior,Bahia,Bahia
+150,Tribunal de Justiça do Estado do Espírito Santo (ES),128,"R$ 9.696,81",superior,várias cidades,Espírito Santo
+151,Prefeitura de Pacajus (CE),370,"R$ 14.000,00","fundamental, médio, técnico e superior",Pacajus,Ceará
+152,Prefeitura de Mogi Guaçu (SP),19,"R$ 3.528,62","fundamental, médio e superior",Mogi Guaçu,São Paulo
+153,Prefeitura de Barra do Bugres (MT),132,"R$ 6.027,73","fundamental, médio e superior",Barra do Bugres,Mato Grosso
+154,Prefeitura de Capela (SE),300,"R$ 10.000,00","fundamental, médio e superior",Capela,Sergipe
+155,Universidade Federal de Mato Grosso do Sul (UFMS),11,"R$ 10.074,18",superior,Mato Grosso do Sul,Mato Grosso do Sul
+156,Secretaria do Estado de Planejamento e de Administração (Seplad - PA),121,"R$ 3.696,38",médio e superior,Belém,Pará
+157,Hospital Ophir Loyola - HOL (PA),121,"R$ 3.696,38",médio e superior,Belém,Pará
+158,Comusa - Serviços de Água e Esgoto de Novo Hamburgo (RS),44,"R$ 6.918,90","fundamental, médio, técnico e superior",Nobo Hamburgo,Rio Grande do Sul
+159,Prefeitura de Cachoeirinha (PE),18,"R$ 4.153,28",médio e superior,Cachoeirinha,Pernambuco
+160,Procuradoria Geral do Município de Niterói (RJ),6,"R$ 15.334,15",superior,Niterói,Rio de Janeiro
+161,Prefeitura de Farroupilha (RS),116,"R$ 19.011,63","fundamental, médio e superior",Farroupilha,Rio Grande do Sul
+162,Faculdade de Odontologia da Universidade de São Paulo,1,"R$ 19.855,85",superior,São Paulo,São Paulo
+163,Marinha,1.080,"R$ 2.294,50",médio,Rio de Janeiro e Brasília,Rio de Janeiro e Distrito Federal
+164,Prefeitura de Sete Lagoas (MG),593,"R$ 1.664,64","fundamental, médio e superior",Sete Lagoas,Minas Gerais
+165,Câmara Municipal de Cuité de Mamanguape (PB),9,"R$ 1.818,00","fundamental, médio e superior",Cuité de Mamanguape,Paraíba
+166,Prefeitura de Bertioga (SP),100,"R$ 2.513,07",médio,Bertioga,São Paulo
+167,Prefeitura de Palmas (TO),50,"R$ 3.440,77",médio,Palmas,Tocantins
+168,Fundação Estadual de Proteção Ambiental Henrique Luis Roessler - Fepam (RS),56,"R$ 6.646,96","médio, técnico e superior",várias cidades,Rio Grande do Sul
+169,Prefeitura de Capivari (SP),57,"R$ 15.519,11","fundamental, médio e superior",Capivari,São Paulo
+170,Instituto Federal do Sul de Minas,4,"R$ 9.616,18",superior,"Pouso Alegre, Passos e Poços de Caldas",Minas Gerais
